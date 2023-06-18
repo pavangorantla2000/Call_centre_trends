@@ -16,8 +16,9 @@ Task:---> Customer and User Behaviour <br />
 1. Implementation of ETL(Extract, Transformation, and Load) data using the power query.  <br /> 
 2. Usage of DAX to create new columns and measures relevant to the analysis. <br /> 
 3. Displayed KPIs (Key Point Information) such as the satisfaction rating, calls answered and unattended, Cases Resolved, and Topic queries. <br /> 
-4. Used Bar plots, Cards, and Gauge visuals to display the KPIs. <br /> 
-5. Also, included treemaps to provide individual agents' performance. <br /> 
+4. Used Bar plots, Cards, and Gauge visuals to display the KPIs. <br />
+5. Used table to display KPI for each month.
+6. Also, included treemaps to provide individual agents' performance. <br /> 
    
 
 
