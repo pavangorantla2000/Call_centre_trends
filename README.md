@@ -1,4 +1,8 @@
-# Call_centre_trends <br /> 
+# Call_centre_trends_analysis <br /> 
+
+
+![Call_centre_trends](/trend_analysis.png)
+
 Data:<br /> 
 Call center data containing information such as: <br /> 
 1. Customer Id <br /> 
